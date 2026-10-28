@@ -1,0 +1,17 @@
+# Rust build artifacts
+target/
+**/target/
+
+# Backup files
+**/*.rs.bk
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Separate repositories
+forbidden/

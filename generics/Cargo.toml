@@ -1,0 +1,11 @@
+[package]
+name = "generics"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+aggregator = {path="aggregator"}
+
+
+
+
